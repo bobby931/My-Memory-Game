@@ -1,0 +1,10 @@
+/* creating dimensions of the each card*/
+
+#grid {
+    width: 400px;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap; /*removing any white space between the cards*/
+   
+}
+
